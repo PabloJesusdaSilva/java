@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ff01dc-d486-46a0-83df-9b71bbdd69c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/back-end/ex13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/back-end/ex13.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
