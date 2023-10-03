@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ff01dc-d486-46a0-83df-9b71bbdd69c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosJava/src/ex19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/back-end/ex13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/back-end/ex13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/back-end/ex16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/back-end/ex16.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +29,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WD0sjDq8Hx601TWJ17QxLpU0ft" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
